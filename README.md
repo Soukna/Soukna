@@ -1,4 +1,4 @@
-👋 Salut,je suis @Soukna!
+👋 Salut,je suis @Soukayna!
 En AI
 Je m'intéresse à l'apprentissage profond.
 🌱 En ce moment, j'étudie l'IA.
@@ -7,6 +7,6 @@ Je m'intéresse à l'apprentissage profond.
 ⚡ Fun fact: Je parle trois langues!
 
 <!---
-Soukna/Soukna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soukayna/Soukayna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
